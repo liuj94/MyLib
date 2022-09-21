@@ -3,7 +3,6 @@ plugins {
     id 'org.jetbrains.kotlin.android'
 
 }
-apply plugin: 'com.github.dcendents.android-maven'
 group='com.github.MyLib'
 android {
     compileSdkVersion 32
